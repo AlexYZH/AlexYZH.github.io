@@ -15,11 +15,11 @@ keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,
 encoding: "utf-8"
 favicon: favicon.png 
 
-repository: alexyzh.github.io/yuzhihao.github.io
-github_url: https://github.com/yuzhihao
-cnblog_url: http://www.cnblogs.com/ityouknow
-url: http://www.yuzhihao.com
-enforce_ssl: yuzhihao.com
+repository: alexyzh.github.io/alexyzh.github.io
+github_url: https://github.com/alexyzh
+cnblog_url: http://www.cnblogs.com/alexyzh
+url: http://www.alexyzh.com 
+enforce_ssl: alexyzh.com
 
 ## Gem
 plugins:
