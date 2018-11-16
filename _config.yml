@@ -17,8 +17,8 @@ favicon: favicon.png
 
 repository: AlexYZH/AlexYZH.github.io
 github_url: https://github.com/AlexYZH
-cnblog_url: http://www.cnblogs.com/AlexYZH
-url: http://alexyzh.github.io
+cnblog_url: https://www.cnblogs.com/AlexYZH
+url: https://alexyzh.github.io
 enforce_ssl: AlexYZH.com
 
 ## Gem
